@@ -1,1 +1,2 @@
 Let's have some content in it.
+Small change after "git add ."
