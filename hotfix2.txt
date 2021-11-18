@@ -1,2 +1,4 @@
 This time I will merge directly on local before going to github.com
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+changed in a new branch from IntelliJ
