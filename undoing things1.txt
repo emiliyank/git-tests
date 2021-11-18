@@ -1,1 +1,2 @@
 Here I will try to undo things in git using git commit --amend
+and change the content
